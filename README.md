@@ -18,7 +18,7 @@ https://www.vortex-cae.com/vortex-radioss
 
 This documentation includes details on the convertible quantities, necessary database requests, and the structure of the conversion code.
 
-To receive email notifications about updates to the conversion library (with data conversion support for solids coming soon), please sign up at the bottom of the page.
+To receive email notifications about updates to the conversion library please sign up at the bottom of the page.
 
 We extend our gratitude to the contributors for all your supportive and constructive feedback.
 
